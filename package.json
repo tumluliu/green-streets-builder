@@ -1,0 +1,25 @@
+{
+  "name": "green-streets-builder",
+  "version": "1.0.0",
+  "description": "Generate a number to indicate the greeness level of each road segment in a street network with different data sources",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tumluliu/green-streets-builder.git"
+  },
+  "keywords": [
+    "routing"
+  ],
+  "author": "Lu Liu <nudtlliu@gmail.com> (http://luliu.me)",
+  "license": "MIT",
+  "bin": {
+      "greenit": "./index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/tumluliu/green-streets-builder/issues"
+  },
+  "homepage": "https://github.com/tumluliu/green-streets-builder#readme"
+}
